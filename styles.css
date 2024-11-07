@@ -1,0 +1,17 @@
+.titolo {
+    background-color: rgb(134, 134, 202);
+    font-size: x-large;
+    padding: 1%;
+}
+
+.divNumero {
+    background-color: rgb(206, 206, 206);
+    padding: 2%;
+    width: 75%;
+    margin: auto;
+}
+
+body {
+    background-color: rgb(235, 235, 235);
+    text-align: center;
+}
